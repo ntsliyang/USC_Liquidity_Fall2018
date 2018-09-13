@@ -1,4 +1,4 @@
-# USC Liquidity Fall2018
+# USC Liquidity Math Research Fall2018
 
 All data-related work goes into /Data folder
 
