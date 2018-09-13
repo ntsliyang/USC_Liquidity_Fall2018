@@ -1,4 +1,5 @@
-# USC_Liquidity_Fall2018
-USC Math Research Fall 2018
+# USC Liquidity Fall2018
 
-- Data goes into /Data folder, Model goes into /Models folder
+All data-related work goes into /Data folder
+
+All model-related work goes into /Models folder
